@@ -1,13 +1,13 @@
 {
  "format": "jozu-app-release/1",
- "version_name": "10.10.0",
- "version_code": 119,
- "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v10.10.0/japanese110-v10.10.0.apk",
- "sha256": "943ff92b49936b5aeb4f639add99b0cd93e795b2c251fbffda0f77d92a7b660a",
- "size_bytes": 12411377,
- "notes_my": "ဗားရှင်း 10.10.0 — boot watchdog ထည့်ထားတယ် (splash ရပ်မနေတော့ဘူး)။ AI အသံ ၁၀ ဖိုင်တစ်သုတ်စီ GitHub ကနေ အလိုလို ရောက်လာမယ်။",
- "published_at": "2026-09-29T15:35:37.829631+00:00",
- "expires_at": "2027-09-29T15:35:37.829631+00:00",
+ "version_name": "11.0.0",
+ "version_code": 120,
+ "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v11.0.0/japanese110-v11.0.0.apk",
+ "sha256": "ce7156af0ed9f5fb676fc45874e4afc90b00940180073789ea6718d972b1da62",
+ "size_bytes": 1598129,
+ "notes_my": "Jōzu v11.0.0 — အသစ်စက်စက် ပြန်လည်တည်ဆောက်ထားတဲ့ version။ စာတွေ (vocab 12,239 · kanji 2,498 · grammar 703) အကုန်ပါဝင်ပြီး အသံဖိုင်များကို ရွေးချယ်ဒေါင်းလုပ်လုပ်နိုင်ပါတယ်။",
+ "published_at": "2026-09-29T15:54:58.011437+00:00",
+ "expires_at": "2027-09-29T15:54:58.011437+00:00",
  "signature_alg": "ES256",
- "signature": "LJoZEY0s2LN2T2gFNC_Cb82F_JSGQP-qlYZXNhOkbKZ66j_fRrW9Jzv_xeFQ-Fi3z-ncglopXRMML_R0_H59mA"
+ "signature": "7CU_dxK4JH8mhWoMgAC9_Eh_-Br7eJoFIucpgqZS8gOCoywgc2wEl92AT2OSVAqyL2c3bkjrM-VXjz8EyzUZ4A"
 }
