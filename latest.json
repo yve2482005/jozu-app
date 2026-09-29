@@ -1,0 +1,13 @@
+{
+ "format": "jozu-app-release/1",
+ "version_name": "10.7",
+ "version_code": 107,
+ "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v10.7/japanese110-v10.7.apk",
+ "sha256": "8c9cb46be290195cb40b4f03a3fe51b1ec049ec80b31d7781af548ec934473da",
+ "size_bytes": 12349282,
+ "notes_my": "ဗားရှင်း 10.7 — app အရင်ထုတ် (အသံမပါ)။ AI အသံ ၁၀ ဖိုင်တစ်သုတ်စီ GitHub ကနေ အလိုလို ရောက်လာမယ်။",
+ "published_at": "2026-09-29T10:15:57.654907+00:00",
+ "expires_at": "2027-09-29T10:15:57.654907+00:00",
+ "signature_alg": "ES256",
+ "signature": "uCOCjKuHo7o7Ri1Sg0ZotgFRsRyQZ96SICpwJmxJcc1rT8o0pXjfUJoBHcrTPu3SvhpkJ7YyslisQK1AA_nYWw"
+}
