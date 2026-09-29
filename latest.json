@@ -1,13 +1,13 @@
 {
  "format": "jozu-app-release/1",
- "version_name": "10.7.8",
- "version_code": 115,
- "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v10.7.8/japanese110-v10.7.8.apk",
- "sha256": "22ec4e390aa2392b0b6b1dacb6a887152be0a8f9f886377ffdf0fb1636fe09e2",
+ "version_name": "10.7.9",
+ "version_code": 116,
+ "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v10.7.9/japanese110-v10.7.9.apk",
+ "sha256": "2b60f250e9af27197786d1c65e3ce75b879f3b3e0f07907740553c589129e61b",
  "size_bytes": 12361570,
- "notes_my": "ဗားရှင်း 10.7.8 — boot watchdog ထည့်ထားတယ် (splash ရပ်မနေတော့ဘူး)။ AI အသံ ၁၀ ဖိုင်တစ်သုတ်စီ GitHub ကနေ အလိုလို ရောက်လာမယ်။",
- "published_at": "2026-09-29T12:40:49.755925+00:00",
- "expires_at": "2027-09-29T12:40:49.755925+00:00",
+ "notes_my": "ဗားရှင်း 10.7.9 — boot watchdog ထည့်ထားတယ် (splash ရပ်မနေတော့ဘူး)။ AI အသံ ၁၀ ဖိုင်တစ်သုတ်စီ GitHub ကနေ အလိုလို ရောက်လာမယ်။",
+ "published_at": "2026-09-29T12:45:20.645498+00:00",
+ "expires_at": "2027-09-29T12:45:20.645498+00:00",
  "signature_alg": "ES256",
- "signature": "fwxeBcXX9rXL1sPrtiJhDYuieLil1Y-scDoejx9oja9FzK68bvpDsFdCm4BYbPpgSbAL6KmRxia15aL6S9LKjw"
+ "signature": "IAOFFr9dOiPxUakaf44HyFDwzh1pALmwHzYQLUkUYwAGGzPll_lBOojtOvjd5SOVg3Y_vXn-R7vxTz3cnTWz3g"
 }
