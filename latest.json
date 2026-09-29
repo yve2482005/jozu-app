@@ -3,11 +3,11 @@
  "version_name": "10.7.1",
  "version_code": 108,
  "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v10.7.1/japanese110-v10.7.1.apk",
- "sha256": "e60d27b86d8bdba9e0d984416bf76abdd1e64f2a87ff1dcca56cab43194655c2",
+ "sha256": "5ee8e5bace6ea4f5c1e30daeef3097bbfad8961fb68ca0b21c2fdfd72862c081",
  "size_bytes": 12349282,
  "notes_my": "ဗားရှင်း 10.7.1 — boot watchdog ထည့်ထားတယ် (splash ရပ်မနေတော့ဘူး)။ AI အသံ ၁၀ ဖိုင်တစ်သုတ်စီ GitHub ကနေ အလိုလို ရောက်လာမယ်။",
- "published_at": "2026-09-29T10:24:07.645727+00:00",
- "expires_at": "2027-09-29T10:24:07.645727+00:00",
+ "published_at": "2026-09-29T10:37:50.749298+00:00",
+ "expires_at": "2027-09-29T10:37:50.749298+00:00",
  "signature_alg": "ES256",
- "signature": "tataZYN0qm3zwDfpXtqqNGenZnpIwu8CxYtaepLCSD8BikQUanoV9yWHTxbuncXJFFOf_r1likQHSH6zj6sK5w"
+ "signature": "xKWCHpEL1EmvFsiBoW615oI1NX8G7DAW2fV43xdfaWrRcnPdUrdtJt9lU6hlCmeIMeONAzwUtU7tHdz3BRnR9g"
 }
