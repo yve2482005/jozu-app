@@ -1,13 +1,13 @@
 {
  "format": "jozu-app-release/1",
- "version_name": "12.0.0",
- "version_code": 121,
- "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v12.0.0/japanese110-v12.0.0.apk",
- "sha256": "cf9c0dd98493e07064a4f56dbbaaada9a1d1309b63e45ebd240f3e63aeb62a61",
- "size_bytes": 4416405,
- "notes_my": "Jōzu v12.0.0 — Official brand redesign: deep navy + sakura pink + warm ivory design system. Official app icon (Enso/Fuji/sakura) as launcher icon. Cinematic splash artwork. 6 premium onboarding screens. Bottom nav: Home | Study | JLPT | Progress | More. All 54-spec screens restyled. Same signing certificate — installs as update.",
- "published_at": "2026-09-29T16:25:51.231105+00:00",
- "expires_at": "2027-09-29T16:25:51.231105+00:00",
+ "version_name": "13.0.0",
+ "version_code": 122,
+ "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v13.0.0/japanese110-v13.0.0.apk",
+ "sha256": "94e1aba32aed848a4375ad83a7a58deb3344f4d811e9349890b53465c0b33ef6",
+ "size_bytes": 4424667,
+ "notes_my": "New 6-screen onboarding (philosophy, diagnostic, personalized curriculum, pillars, listening/speaking, JLPT+real-world); new Profile learning-passport screen; enhanced Home dashboard (study time, JLPT level, streak, weakest skill, recommended activity); elegant sub-2s loading animation; typography fixes for Burmese+Japanese+English; zero visible debug UI.",
+ "published_at": "2026-09-29T18:27:00.126781+00:00",
+ "expires_at": "2027-09-29T18:27:00.126781+00:00",
  "signature_alg": "ES256",
- "signature": "g4wjhxh1duClnb3bcwoJTJRd3xv8atEwcntC3AMmIgxbp8x6E0HAmSEQK0p-FxarAOPIcK0f32c_5t_dA2AN5g"
+ "signature": "SPD-g8lwk2sst7w7M3Y4T7dIxB-G7k3tydXCen_-xCtfEmbSENpKto2BvLxyc2_-VRDzq7SQAVEMxBwP_rEQRw"
 }
