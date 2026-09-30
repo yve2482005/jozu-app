@@ -1,15 +1,15 @@
 {
   "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
   "format": "jozu-app-update/1",
-  "issued_at": "2026-09-30T19:42:00+06:30",
+  "issued_at": "2026-09-30T20:05:00+06:30",
   "min_android_sdk": 24,
-  "notes_mm": "Jōzu v19.0.0 — 56-section spec အပြည့်အစုံ အကောင်အထည်ဖော်မှု။ Onboarding အသစ် (Brain Test + Adaptive Level Test + Learning Path)၊ Home အသစ် (mood check, Today's Mission, AI Caretaker)၊ Collection၊ Secure Exam Mode၊ audio speed control၊ ES256 manual update check။ cert အတူတူ (v18 နှင့် တူညီ)။",
+  "notes_mm": "Jōzu v19.0.1 — Kanji stroke-order animation အစစ်အမှန် (KanjiVG data, 2,498 kanji လုံး)။ Play/step-by-step/နံပါတ်ပြ၊ လေ့ကျင့်ရေး canvas ဆက်ရှိ။ Stroke order: KanjiVG © Ulrich Apel (CC BY-SA 3.0)။ cert အတူတူ (v19.0.0 နှင့် တူညီ)။",
   "package": "com.jozu.app",
-  "sha256": "a280e26c318fde57cfbea532195c835611c33567d0f2bea706961d6511ec24eb",
+  "sha256": "eda3d9981112261753fc7e1f19074a833e83caf4345b35ade041d8a03aa95f3f",
   "signature_alg": "ES256",
-  "size_bytes": 358230901,
-  "url": "https://github.com/yve2482005/jozu-app/releases/download/v19.0.0/japanese110-v19.0.0.apk",
-  "version": "19.0.0",
-  "version_code": 132,
-  "signature": "nnGVhraGZDh/2owzZLgPNiBCxRNG0vyGFCLuXg0JVeE7l9WCQZ1I1JCmO5Cn40whz4VXuMv7jv51b7so/4hRSQ=="
+  "size_bytes": 358894656,
+  "url": "https://github.com/yve2482005/jozu-app/releases/download/v19.0.1/japanese110-v19.0.1.apk",
+  "version": "19.0.1",
+  "version_code": 133,
+  "signature": "LB8nPiz2dagJnS3/IIlThEroGopL6IEBW01DG154HXIHUoxnzDN5zxlFpuZN2/QGCVel4VbCn/lmOXSFqlcyGg=="
 }
