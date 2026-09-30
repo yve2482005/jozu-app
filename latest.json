@@ -1,13 +1,13 @@
 {
  "format": "jozu-app-release/1",
- "version_name": "14.0.0",
- "version_code": 123,
- "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v14.0.0/japanese110-v14.0.0.apk",
- "sha256": "b9bf3198e8c1df58ae0f4b262c4bffd28a84d4ed0072a0f80f63387975c19adb",
- "size_bytes": 13489209,
- "notes_my": "Jōzu 14.0.0 — classic UI returns: ホーム/学習/復習/コレクション/プロフィール with the Mt. Fuji hero, level card, mock-exam collection, and Jōzu Student profile. Manual-only audio download and update checks.",
- "published_at": "2026-09-30T03:15:52.726336+00:00",
- "expires_at": "2027-09-30T03:15:52.726336+00:00",
+ "version_name": "15.0.0",
+ "version_code": 124,
+ "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v15.0.0/japanese110-v15.0.0.apk",
+ "sha256": "fd561fdfe957c20d372120518626ef187438b13f6ef4bbfc3c51e70965774610",
+ "size_bytes": 2157294,
+ "notes_my": "Jōzu 15.0.0 — အသစ်ပြန်လည်တည်ဆောက်ထားသော ဗားရှင်း။ မြန်မာဘာသာဦးစားပေး UI၊ ၆ မျက်နှာပါ ကြိုဆိုမှု၊ စစ်ဆေးမှုနှင့် ကိုယ်ပိုင်သင်ရိုး၊ အသံပက်ခ်များ (TTS-only, GitHub မှဒေါင်းလုဒ်)၊ JLPT N5→N1 စာမေးပွဲမုဒ်။",
+ "published_at": "2026-09-30T04:04:10.350081+00:00",
+ "expires_at": "2027-09-30T04:04:10.350081+00:00",
  "signature_alg": "ES256",
- "signature": "9d4OGmqk65VnoXXAqifbNJrd6SFPR_SByaKFO0wGh8YJMKm4Lj6yeRlUiz0Dgwqx3BZ6cdOUA7IE213cWPQ5GA"
+ "signature": "0qjbXtK_Vo0uK_TvLkhxJV97Ph3vEDRoVrni5t6q9WE_CR9G2rA9Eq1eRMDrk5YLXc_nNRxMQXvKkEKp5ZU8vQ"
 }
