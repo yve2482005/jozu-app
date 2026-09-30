@@ -1,13 +1,13 @@
 {
  "format": "jozu-app-release/1",
- "version_name": "13.0.0",
- "version_code": 122,
- "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v13.0.0/japanese110-v13.0.0.apk",
- "sha256": "94e1aba32aed848a4375ad83a7a58deb3344f4d811e9349890b53465c0b33ef6",
- "size_bytes": 4424667,
- "notes_my": "New 6-screen onboarding (philosophy, diagnostic, personalized curriculum, pillars, listening/speaking, JLPT+real-world); new Profile learning-passport screen; enhanced Home dashboard (study time, JLPT level, streak, weakest skill, recommended activity); elegant sub-2s loading animation; typography fixes for Burmese+Japanese+English; zero visible debug UI.",
- "published_at": "2026-09-29T18:27:00.126781+00:00",
- "expires_at": "2027-09-29T18:27:00.126781+00:00",
+ "version_name": "14.0.0",
+ "version_code": 123,
+ "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v14.0.0/japanese110-v14.0.0.apk",
+ "sha256": "b9bf3198e8c1df58ae0f4b262c4bffd28a84d4ed0072a0f80f63387975c19adb",
+ "size_bytes": 13489209,
+ "notes_my": "Jōzu 14.0.0 — classic UI returns: ホーム/学習/復習/コレクション/プロフィール with the Mt. Fuji hero, level card, mock-exam collection, and Jōzu Student profile. Manual-only audio download and update checks.",
+ "published_at": "2026-09-30T03:15:52.726336+00:00",
+ "expires_at": "2027-09-30T03:15:52.726336+00:00",
  "signature_alg": "ES256",
- "signature": "SPD-g8lwk2sst7w7M3Y4T7dIxB-G7k3tydXCen_-xCtfEmbSENpKto2BvLxyc2_-VRDzq7SQAVEMxBwP_rEQRw"
+ "signature": "9d4OGmqk65VnoXXAqifbNJrd6SFPR_SByaKFO0wGh8YJMKm4Lj6yeRlUiz0Dgwqx3BZ6cdOUA7IE213cWPQ5GA"
 }
