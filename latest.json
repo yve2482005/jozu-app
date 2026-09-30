@@ -1,0 +1,15 @@
+{
+  "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
+  "format": "jozu-app-update/1",
+  "issued_at": "2026-09-30T14:37:00+06:30",
+  "min_android_sdk": 24,
+  "notes_mm": "Jōzu v18.0.0 — 58-section master spec အပြည့်အစုံ အကောင်အထည်ဖော်မှု။ cert အတူတူ (v17.x နှင့် တူညီ)။",
+  "package": "com.jozu.app",
+  "sha256": "85cb85c19248f7b1fe277f10f4a84a1c6b81f33dea0bb2c5e88d21756f30598d",
+  "signature_alg": "ES256",
+  "size_bytes": 358148006,
+  "url": "https://github.com/yve2482005/jozu-app/releases/download/v18.0.0/japanese110-v18.0.0.apk",
+  "version": "18.0.0",
+  "version_code": 131,
+  "signature": "wclScM5eBvLjYKDM1HMSjbRH74UcF27NLdXsutWIq4FqpNxrvgJhE/X1aZ3GgjM1Sc9NisxEaeP1WrvwzWKGYg=="
+}
