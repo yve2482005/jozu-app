@@ -1,15 +1,15 @@
 {
-  "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
   "format": "jozu-app-update/1",
-  "issued_at": "2026-09-30T14:45:00+06:30",
-  "min_android_sdk": 24,
-  "notes_mm": "Jōzu v20.0.1 — v20.0.0 install မရတဲ့ ပြဿနာ (ZIP64 APK) ပြင်ပြီး။ အသံ 84,655 ဖိုင်ကို blob 16 ဖိုင်အဖြစ် ပြန်ထုပ်ထားတယ် (အသံ/အကြောင်းအရာ အတူတူ — 123,404 items)။ APK ပုံမှန် install ရမယ်။ cert အတူတူ။",
   "package": "com.jozu.app",
-  "sha256": "656925932ad1bdab0bd40ee4f57a4ad7fa54a6f3a2dda20dcedf550ff2834995",
+  "version": "21.0.0",
+  "version_code": 136,
+  "size_bytes": 708365963,
+  "sha256": "5d546460bca8f18b32f608ca547becb98c450edea4e43c407fa0e15844ad2667",
+  "url": "https://github.com/yve2482005/jozu-app/releases/download/v21.0.0/japanese110-v21.0.0.apk",
+  "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
+  "min_android_sdk": 24,
+  "issued_at": "2026-09-30T21:55:00+06:30",
+  "notes_mm": "Jōzu v21.0.0 — Adaptive Learning System အပြည့်အစုံ။ Dynamic Brain Test (အဖြေပေါ်မူတည်ပြီး ပြောင်းလဲ), Daily Mood + နေ့စဉ်သင်ခန်းစာ အလိုအလျောက်, Smart Continue, Library (Learn→Library), သတိပေးချက် (default OFF), Developer Diagnostics။ Content 123,404 items, audio 84,655။ cert အတူတူ။",
   "signature_alg": "ES256",
-  "size_bytes": 708332931,
-  "url": "https://github.com/yve2482005/jozu-app/releases/download/v20.0.1/japanese110-v20.0.1.apk",
-  "version": "20.0.1",
-  "version_code": 135,
-  "signature": "Wn12uPgGVPlYi3UEhaP3DEhHSekEkxm6aweLMsCvR9E1x5V0Qa2zEN3FoUz6TxyL4xOVseQ2hD1LRt+KpFBvIA=="
+  "signature": "Q8+9osl5UwzvpTDUzYhUOULnR2KCfPiP+NHaa75isAlJeSDisBPH7T9iaykHDRGwIVx0ujCGecnSCmySv0IZeg=="
 }
