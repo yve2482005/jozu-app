@@ -1,13 +1,13 @@
 {
  "format": "jozu-app-release/1",
- "version_name": "15.0.1",
- "version_code": 125,
- "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v15.0.1/japanese110-v15.0.1.apk",
- "sha256": "5d120ff8d1da494c760af000b073b8ce00ba5dd59d2d3f274abacbf9dc8a1ea0",
+ "version_name": "15.0.2",
+ "version_code": 126,
+ "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v15.0.2/japanese110-v15.0.2.apk",
+ "sha256": "b6eafc995e9b417fcb8188886377e1e8caa52b09d8bb35a8bc2a7841a0a0ddd9",
  "size_bytes": 2157294,
- "notes_my": "Fix: data screens showed 'ဒေတာ ဖွင့်၍မရပါ။' on real devices. The WebView was missing setAllowFileAccessFromFileURLs / setAllowUniversalAccessFromFileURLs, so fetch() of the app's own data/*.json from file:///android_asset/ was blocked on Android (worked only over http in tests). No UI changes.",
- "published_at": "2026-09-30T04:10:01.783735+00:00",
- "expires_at": "2027-09-30T04:10:01.783735+00:00",
+ "notes_my": "v15.0.2 — သန့်ရှင်းရေး update။ အသံထုပ်စာမျက်နှာက အသုံးမပြုတော့တဲ့ ကုဒ်အဟောင်းကို ဖျက်ပြီး comment တွေပြင်ထားပါတယ်။ အသုံးပြုပုံ ပြောင်းလဲမှုမရှိ။ v15.0.1 ရဲ့ WebView file-access ပြင်ဆင်ချက် ဆက်ပါဝင်ပါတယ်။",
+ "published_at": "2026-09-30T04:21:13.612589+00:00",
+ "expires_at": "2027-09-30T04:21:13.612589+00:00",
  "signature_alg": "ES256",
- "signature": "IuAJZn-lXqncd0IaqM_AbyOsIbK1sSzKSAZm0NqsQJfFD4rt1u32QTF43-lUL9wXOkrUsHHhz6CjiZvgKDPjAw"
+ "signature": "jWC83kdInn1J1X4WAWBOLGszwJwpF6RBZL2ZeiuAi-4hMvnhFdAjZkzq9BBhr-nGMNi3D4Un-zpDT4D7F8kA2w"
 }
