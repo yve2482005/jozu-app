@@ -1,13 +1,13 @@
 {
  "format": "jozu-app-release/1",
- "version_name": "15.0.2",
- "version_code": 126,
- "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v15.0.2/japanese110-v15.0.2.apk",
- "sha256": "b6eafc995e9b417fcb8188886377e1e8caa52b09d8bb35a8bc2a7841a0a0ddd9",
- "size_bytes": 2157294,
- "notes_my": "v15.0.2 — သန့်ရှင်းရေး update။ အသံထုပ်စာမျက်နှာက အသုံးမပြုတော့တဲ့ ကုဒ်အဟောင်းကို ဖျက်ပြီး comment တွေပြင်ထားပါတယ်။ အသုံးပြုပုံ ပြောင်းလဲမှုမရှိ။ v15.0.1 ရဲ့ WebView file-access ပြင်ဆင်ချက် ဆက်ပါဝင်ပါတယ်။",
- "published_at": "2026-09-30T04:21:13.612589+00:00",
- "expires_at": "2027-09-30T04:21:13.612589+00:00",
+ "version_name": "15.1.0",
+ "version_code": 127,
+ "apk_url": "https://github.com/yve2482005/jozu-app/releases/download/v15.1.0/japanese110-v15.1.0.apk",
+ "sha256": "a4b41c93b2e9a9375983b96f3c283ee10846f30656e3366a02c4af5e25dda0a5",
+ "size_bytes": 2161390,
+ "notes_my": "v15.1.0 — App ထဲ data အသစ်တွေ ထည့်ပြီးပါပြီ။ စကားပြောလေ့ကျင့်ခန်း (16 ခန်း)၊ အင်တာဗျူး (30 မေးခွန်း)၊ အလုပ်ခွင်ဂျပန် (10 အမျိုးအစား)၊ နေ့စဉ်ဘဝဂျပန် (13 အခြေအနေ)၊ ဝါကျများ (21,341 ဝါကျ) — သင်ယူရန် စာမျက်နှာကနေ ဝင်လေ့လာနိုင်ပါပြီ။",
+ "published_at": "2026-09-30T04:26:32.125145+00:00",
+ "expires_at": "2027-09-30T04:26:32.125145+00:00",
  "signature_alg": "ES256",
- "signature": "jWC83kdInn1J1X4WAWBOLGszwJwpF6RBZL2ZeiuAi-4hMvnhFdAjZkzq9BBhr-nGMNi3D4Un-zpDT4D7F8kA2w"
+ "signature": "1Hv7Rn0CrD69sgrJtc05BMizHk2Trug-ganHrHTeWhdQvB1HnRsE5It-ocEXe5PPZ6Y3b5EvwYWyPzmrFjb8YQ"
 }
