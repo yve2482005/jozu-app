@@ -1,15 +1,15 @@
 {
   "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
   "format": "jozu-app-update/1",
-  "issued_at": "2026-09-30T20:05:00+06:30",
+  "issued_at": "2026-09-30T14:10:00+06:30",
   "min_android_sdk": 24,
-  "notes_mm": "Jōzu v19.0.1 — Kanji stroke-order animation အစစ်အမှန် (KanjiVG data, 2,498 kanji လုံး)။ Play/step-by-step/နံပါတ်ပြ၊ လေ့ကျင့်ရေး canvas ဆက်ရှိ။ Stroke order: KanjiVG © Ulrich Apel (CC BY-SA 3.0)။ cert အတူတူ (v19.0.0 နှင့် တူညီ)။",
+  "notes_mm": "Jōzu v20.0.0 — Item 123,404 ခု (အသစ် 86,395 ခု)၊ အသံ 84,655 ဖိုင် (အသစ် 48,325 ခု)။ Drill အသစ် ၈ မျိုး (Learn → Drills)။ မြန်မာဂဏန်းအမှား (468 ခု) ပြင်ပြီး။ APK ~695 MB — storage စစ်ပါ။ cert အတူတူ။",
   "package": "com.jozu.app",
-  "sha256": "eda3d9981112261753fc7e1f19074a833e83caf4345b35ade041d8a03aa95f3f",
+  "sha256": "6cffc7a01540df34ace2492db2a213856c70f810356e8fa4adcac41557cdec4e",
   "signature_alg": "ES256",
-  "size_bytes": 358894656,
-  "url": "https://github.com/yve2482005/jozu-app/releases/download/v19.0.1/japanese110-v19.0.1.apk",
-  "version": "19.0.1",
-  "version_code": 133,
-  "signature": "LB8nPiz2dagJnS3/IIlThEroGopL6IEBW01DG154HXIHUoxnzDN5zxlFpuZN2/QGCVel4VbCn/lmOXSFqlcyGg=="
+  "size_bytes": 728527211,
+  "url": "https://github.com/yve2482005/jozu-app/releases/download/v20.0.0/japanese110-v20.0.0.apk",
+  "version": "20.0.0",
+  "version_code": 134,
+  "signature": "H3sdoCPxA2tkBQIxoAaKxsUd7uJ/pBTqFqGYQA+7tlVdZ21Tg01fYICBpKNNraeF6r1Wja+rf9HcAuNK5z0KEw=="
 }
