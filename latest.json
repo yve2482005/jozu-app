@@ -1,15 +1,15 @@
 {
   "format": "jozu-app-update/1",
   "package": "com.jozu.app",
-  "version": "21.0.0",
-  "version_code": 136,
-  "size_bytes": 708365963,
-  "sha256": "5d546460bca8f18b32f608ca547becb98c450edea4e43c407fa0e15844ad2667",
-  "url": "https://github.com/yve2482005/jozu-app/releases/download/v21.0.0/japanese110-v21.0.0.apk",
+  "version": "22.0.0",
+  "version_code": 137,
+  "size_bytes": 708452375,
+  "sha256": "b44ea1376d7fecc20e8d85633094d8bb1dc80daf668341f731d5cbac67426544",
+  "url": "https://github.com/yve2482005/jozu-app/releases/download/v22.0.0/japanese110-v22.0.0.apk",
   "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
   "min_android_sdk": 24,
-  "issued_at": "2026-09-30T21:55:00+06:30",
-  "notes_mm": "Jōzu v21.0.0 — Adaptive Learning System အပြည့်အစုံ။ Dynamic Brain Test (အဖြေပေါ်မူတည်ပြီး ပြောင်းလဲ), Daily Mood + နေ့စဉ်သင်ခန်းစာ အလိုအလျောက်, Smart Continue, Library (Learn→Library), သတိပေးချက် (default OFF), Developer Diagnostics။ Content 123,404 items, audio 84,655။ cert အတူတူ။",
+  "issued_at": "2026-10-01T17:43:52+06:30",
+  "notes_mm": "Jōzu v22.0.0 — Central Adaptive Engine: တစ်ခုတည်းသော adaptive engine + event system, 7-tab nav (Home/Mission/Learn/Practice/Conversation/Progress/Profile), generate-per-demand audio (VOICEVOX 春日部つむぎ, credit ပါတယ်), mistake DNA 10 classes, knowledge graph, memory engine (forgetting curve), conversation simulator, session recovery, exit confirmations။ Content 38,991 records (vocab 12,399, kanji 2,498, sentences 21,341…), audio 84,655 bundled။ 124,256-item master dataset ကို သီးခြား ZIP အဖြစ် ဆက်လုပ်နေတယ်။ cert အတူတူ။",
   "signature_alg": "ES256",
-  "signature": "Q8+9osl5UwzvpTDUzYhUOULnR2KCfPiP+NHaa75isAlJeSDisBPH7T9iaykHDRGwIVx0ujCGecnSCmySv0IZeg=="
+  "signature": "/wq2Mg/J/vcbyrgRttoL1evf/TfysEywq2x7HnROkxPrA5vX4KwMmF6/ak3rxRUQyE9b7Su5TVyidUcQClF2uA=="
 }
