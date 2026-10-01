@@ -1,15 +1,15 @@
 {
   "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
   "format": "jozu-app-update/1",
-  "issued_at": "2026-10-01T19:30:00+06:30",
+  "issued_at": "2026-10-01T20:05:00+06:30",
   "min_android_sdk": 24,
-  "notes_mm": "Jōzu v22.0.0 — Hybrid Audio + 200K Content။ VOICEVOX (春日部つむぎ) အသံထွက် 36,330 ခု APK ထဲမှာ ပါပြီးသား၊ ကျန်တဲ့ စာသားတွေအတွက် ဖုန်းထဲမှာတင် အသံထုတ်ပေးတယ် (on-device)။ Content 267,648 ခု၊ drill 199,141 ခု Learn ထဲမှာ ရပြီ။ Conversation/Workplace/Kaigo/Real-life dialogue အသစ်တွေ ပါတယ်။ cert အတူတူ။",
+  "notes_mm": "Jōzu v22.0.1 — 32-bit ဖုန်း install fix။ v22.0.0 ကို 32-bit Android ဖုန်း (ဥပမာ TECNO SPARK Go 2024) တွေမှာ install လုပ်မရတာ ပြင်ထားပါတယ် — APK ကို universal ထုတ်ထားလို့ 32-bit ဖုန်းတွေလည်း install ရပြီ။ 64-bit ဖုန်းတွေမှာ VOICEVOX (春日部つむぎ) အသံထုတ်စနစ်ကို app ဖွင့်ပြီးမှ load လုပ်တယ်။ 32-bit ဖုန်းတွေမှာ ဖုန်းထဲမှာ အသံထုတ်တာတော့ မရဘူး (အမှန်အတိုင်းပြထားပါတယ်)၊ အသံဖိုင်ရှိပြီးသား 36,330 ခုကိုတော့ ဖွင့်နိုင်တယ်။ Content 267,648 ခု၊ cert အတူတူ။",
   "package": "com.jozu.app",
-  "sha256": "4d1606f31ec71f54076a5d4dd8ff064fdc321cebbde40759bb57379e11cb7832",
-  "size_bytes": 496828733,
-  "url": "https://github.com/yve2482005/jozu-app/releases/download/v22.0.0/japanese110-v22.0.0.apk",
-  "version": "22.0.0",
-  "version_code": 137,
+  "sha256": "a166d0650d0260b3c86a6dd4196b87ccba9cd0290e110d9014022913fbdbef47",
+  "size_bytes": 496828781,
+  "url": "https://github.com/yve2482005/jozu-app/releases/download/v22.0.1/japanese110-v22.0.1.apk",
+  "version": "22.0.1",
+  "version_code": 138,
   "signature_alg": "ES256",
-  "signature": "syHgHNxHpPmkD2/vh1Q4iq0GgyUe8Y/bVjMlBzW6KtdUQ9y0IqbILjy00Y+q7dWsMufF40Ox4vtWW46mugCHHg=="
+  "signature": "+2x3aDvLC0WOZJOaWQCDR23PACh0PRDM7zQVTLecqogC1vQNX+0q8cX7pu1G8QHZ/ZlIYqKN5Q4OO99BgZRAZg=="
 }
