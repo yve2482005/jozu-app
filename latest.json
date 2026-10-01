@@ -1,15 +1,15 @@
 {
+  "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
   "format": "jozu-app-update/1",
+  "issued_at": "2026-10-01T19:30:00+06:30",
+  "min_android_sdk": 24,
+  "notes_mm": "Jōzu v22.0.0 — Hybrid Audio + 200K Content။ VOICEVOX (春日部つむぎ) အသံထွက် 36,330 ခု APK ထဲမှာ ပါပြီးသား၊ ကျန်တဲ့ စာသားတွေအတွက် ဖုန်းထဲမှာတင် အသံထုတ်ပေးတယ် (on-device)။ Content 267,648 ခု၊ drill 199,141 ခု Learn ထဲမှာ ရပြီ။ Conversation/Workplace/Kaigo/Real-life dialogue အသစ်တွေ ပါတယ်။ cert အတူတူ။",
   "package": "com.jozu.app",
+  "sha256": "4d1606f31ec71f54076a5d4dd8ff064fdc321cebbde40759bb57379e11cb7832",
+  "size_bytes": 496828733,
+  "url": "https://github.com/yve2482005/jozu-app/releases/download/v22.0.0/japanese110-v22.0.0.apk",
   "version": "22.0.0",
   "version_code": 137,
-  "size_bytes": 708452375,
-  "sha256": "b44ea1376d7fecc20e8d85633094d8bb1dc80daf668341f731d5cbac67426544",
-  "url": "https://github.com/yve2482005/jozu-app/releases/download/v22.0.0/japanese110-v22.0.0.apk",
-  "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
-  "min_android_sdk": 24,
-  "issued_at": "2026-10-01T17:43:52+06:30",
-  "notes_mm": "Jōzu v22.0.0 — Central Adaptive Engine: တစ်ခုတည်းသော adaptive engine + event system, 7-tab nav (Home/Mission/Learn/Practice/Conversation/Progress/Profile), generate-per-demand audio (VOICEVOX 春日部つむぎ, credit ပါတယ်), mistake DNA 10 classes, knowledge graph, memory engine (forgetting curve), conversation simulator, session recovery, exit confirmations။ Content 38,991 records (vocab 12,399, kanji 2,498, sentences 21,341…), audio 84,655 bundled။ 124,256-item master dataset ကို သီးခြား ZIP အဖြစ် ဆက်လုပ်နေတယ်။ cert အတူတူ။",
   "signature_alg": "ES256",
-  "signature": "/wq2Mg/J/vcbyrgRttoL1evf/TfysEywq2x7HnROkxPrA5vX4KwMmF6/ak3rxRUQyE9b7Su5TVyidUcQClF2uA=="
+  "signature": "syHgHNxHpPmkD2/vh1Q4iq0GgyUe8Y/bVjMlBzW6KtdUQ9y0IqbILjy00Y+q7dWsMufF40Ox4vtWW46mugCHHg=="
 }
