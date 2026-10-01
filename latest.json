@@ -1,15 +1,15 @@
 {
   "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
   "format": "jozu-app-update/1",
-  "issued_at": "2026-10-01T20:35:00+06:30",
+  "issued_at": "2026-10-01T21:45:00+06:30",
   "min_android_sdk": 24,
-  "notes_mm": "Jōzu v22.0.2 — စာလုံးထိတာနဲ့ အသံထွက်တယ်။ စာမျက်နှာပေါ်က ဂျပန်စာလုံးတစ်ခုခုကို ထိလိုက်တာနဲ့ ဖုန်းထဲက VOICEVOX အသံနဲ့ ချက်ချင်းဖတ်ပြမယ် — စာရိုက်စရာမလိုဘူး။ စာသားဖိထားပြီးရွေးရင် \"🔊 အသံဖွင့်\" menu ပေါ်မယ်။ App ထဲမရှိတဲ့စကားလုံးအသစ်တွေအတွက်ပါ ရတယ်။ စာမေးပွဲအတွင်းပိတ်ထားတယ်။ အသံတိုက်ရိုက်ထုတ်တာ 64-bit ဖုန်းတွေမှာပဲရမယ်၊ 32-bit ဖုန်းတွေမှာ အသံရှိပြီးသား 36,330 ကိုဖွင့်နိုင်တယ်။",
+  "notes_mm": "Jōzu v22.0.3 — v22.0.2 ရဲ့ clean rebuild (လုပ်ဆောင်ချက်အတူတူ): စာလုံးထိတာနဲ့ အသံထွက်တယ်။ စာမျက်နှာပေါ်က ဂျပန်စာလုံးတစ်ခုခုကို ထိလိုက်တာနဲ့ ဖုန်းထဲက VOICEVOX အသံနဲ့ ချက်ချင်းဖတ်ပြမယ် — စာရိုက်စရာမလိုဘူး။ စာသားဖိထားပြီးရွေးရင် \"🔊 အသံဖွင့်\" menu ပေါ်မယ်။ စာမေးပွဲအတွင်းပိတ်ထားတယ်။ အသံတိုက်ရိုက်ထုတ်တာ 64-bit ဖုန်းတွေမှာပဲရမယ်၊ 32-bit ဖုန်းတွေမှာ အသံရှိပြီးသား 36,330 ကိုဖွင့်နိုင်တယ်။",
   "package": "com.jozu.app",
-  "sha256": "697a3a6c963db06116e89ddc50539d47309596dd87337b30d2791e5cd57c74f4",
+  "sha256": "21d3c766fc169c3449e89b7a4a13978023a49730d90cd725ae8484c6eecb18f1",
   "size_bytes": 496828853,
-  "url": "https://github.com/yve2482005/jozu-app/releases/download/v22.0.2/japanese110-v22.0.2.apk",
-  "version": "22.0.2",
-  "version_code": 139,
+  "url": "https://github.com/yve2482005/jozu-app/releases/download/v22.0.3/japanese110-v22.0.3.apk",
+  "version": "22.0.3",
+  "version_code": 140,
   "signature_alg": "ES256",
-  "signature": "30GjXMOsUXXwD3zgKzCjcv38ELY1BPQuMA+6elpfCF1c433RqndPFcpiG+YNURJAEKwRqGocXY/cOuT2uY14sg=="
+  "signature": "ET24qnsFfu7HXiISPKBboK6r93LT3C+0WuZjN7MIBH+qcKhPvg3LFSUEnGZcm2MmV6rmlaFbXod0GD/JJcCYCA=="
 }
