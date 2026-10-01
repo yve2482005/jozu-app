@@ -1,15 +1,15 @@
 {
   "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
   "format": "jozu-app-update/1",
-  "issued_at": "2026-10-01T22:10:00+06:30",
+  "issued_at": "2026-10-02T00:01:22+06:30",
   "min_android_sdk": 24,
-  "notes_mm": "Jōzu v22.0.4 — အမှားပြင်ဆင်ချက်: app ဖွင့်တာနဲ့ \"Webpage not available\" ပြတဲ့ ပြဿနာဖြေရှင်းပြီးပြီ။ စာလုံးထိတာနဲ့ အသံထွက်တယ်။ စာမျက်နှာပေါ်က ဂျပန်စာလုံးတစ်ခုခုကို ထိလိုက်တာနဲ့ ဖုန်းထဲက VOICEVOX အသံနဲ့ ချက်ချင်းဖတ်ပြမယ် — စာရိုက်စရာမလိုဘူး။ စာသားဖိထားပြီးရွေးရင် \"🔊 အသံဖွင့်\" menu ပေါ်မယ်။ စာမေးပွဲအတွင်းပိတ်ထားတယ်။ အသံတိုက်ရိုက်ထုတ်တာ 64-bit ဖုန်းတွေမှာပဲရမယ်၊ 32-bit ဖုန်းတွေမှာ အသံရှိပြီးသား 36,330 ကိုဖွင့်နိုင်တယ်။",
+  "notes_mm": "Jōzu v22.0.5 — အကြီးစားအမှားပြင်ဆင်ချက်: (1) သင်ခန်းစာ 230,639 ခု Library ထဲက 200K ကဏ္ဍမှာ အကုန်မြင်ရ/ရှာရ/လေ့ကျင့်ရပြီ — အရင်ဗားရှင်းတွေမှာ ဖုံးကွယ်နေခဲ့တာ။ (2) VOICEVOX အသံ 36,330 ခု အခုတကယ်ဖွင့်နိုင်ပြီ — အရင်က app အတွင်းလမ်းကြောင်းမှားနေလို့ အသံမထွက်ခဲ့ဘူး။ စာလုံးထိတာနဲ့ အသံထွက်တယ်။ 32-bit ဖုန်းတွေမှာ အသံတိုက်ရိုက်ထုတ်မရဘူး၊ အသံရှိပြီးသားတွေပဲဖွင့်နိုင်တယ်။",
   "package": "com.jozu.app",
-  "sha256": "48291ab4e643c03b89506df0951cca5db3681251f1c990fdd3611b6e803cde84",
-  "size_bytes": 496828853,
-  "url": "https://github.com/yve2482005/jozu-app/releases/download/v22.0.4/japanese110-v22.0.4.apk",
-  "version": "22.0.4",
-  "version_code": 141,
+  "sha256": "adca7573939a68e2e053496936713df2fe68d7af33e28a58b0098763958edac6",
+  "size_bytes": 499621946,
+  "url": "https://gofile.io/d/Lo4iywp8",
+  "version": "22.0.5",
+  "version_code": 142,
   "signature_alg": "ES256",
-  "signature": "uaqIf91rMhRgLNn2Or872pFsy39FEaVh1HlJzcFdNmo4culrUCBu8YbZsSlaFik73Ic7g4aFRMxE1itRZ3ccNw=="
+  "signature": "GIr0Hwpjchi8hQ1CTaRLIIiDqLEcXS5zYwOaYYFuCuNQDtgh2uK9XJgzEieSWMzl+nDRUlvy989RrTv8KAKQlg=="
 }
