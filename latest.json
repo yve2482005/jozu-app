@@ -1,15 +1,1 @@
-{
-  "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
-  "format": "jozu-app-update/1",
-  "issued_at": "2026-10-02T09:26:30+06:30",
-  "min_android_sdk": 24,
-  "notes_mm": "Jōzu v22.0.9 — အသံမရတဲ့ စာတွေ နှိပ်ရင် app ရပ်သွားတဲ့ ပြဿနာကို အပြီးပြင်ပြီးပါပြီ: 32-bit ဖုန်းတွေမှာ အသံထုတ်စနစ်ကို လုံးဝ မခေါ်တော့ဘဲ တိုက်ရိုက် 'အသံမရနိုင်ပါ' ပြပေးပါတယ်။ နောက်ပြီး app ရပ်သွားရင် အကြောင်းရင်းကို မှတ်ထားပေးတဲ့ စနစ်လည်း ပါဝင်လာပါပြီ။ 200K (230,639) ကဏ္ဍတိုင်းမှာ ဆက်ရှိပါတယ်။",
-  "package": "com.jozu.app",
-  "sha256": "87bb2a9dc5c3b895949328a91b91992b86822f56aaac532a11c54bce70d1b448",
-  "size_bytes": 499638407,
-  "url": "https://gofile.io/d/VbJR3rXx",
-  "version": "22.0.9",
-  "version_code": 146,
-  "signature_alg": "ES256",
-  "signature": "QANutAe2sfd+bohe5KXA/1XsDU8A2hoyd/DigerRM8ifLwPz//QY1HFfaptQsd1XIJr0LlcAoaCzV68QPNUeVg=="
-}
+{"format":"jozu-app-update/1","package":"com.jozu.app","version":"22.0.10","version_code":147,"url":"https://gofile.io/d/JqWNHPmQ","size_bytes":663536726,"sha256":"1b7fb016bc36f45cd6b13343ef2ce1ab43a98e7794e439225fe39362e58a9ee5","cert_sha256":"114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3","min_android_sdk":24,"issued_at":"2026-10-02T10:25:00+06:30","notes_mm":"Jōzu v22.0.10 — 32-bit ဖုန်းတွေအတွက် သတင်းကောင်း! 🎉 အခု 32-bit ဖုန်းတွေမှာလည်း အသံကြည်ကြည်နဲ့ ဂျပန်စာ အသံထွက်ပေးတဲ့ စနစ် (sherpa-onnx + Supertonic 3) ပါဝင်လာပါပြီ။ အသံမရတဲ့ စာတွေ နှိပ်ရင် အသံထွက်ပေးပါလိမ့်မယ်။ 64-bit ဖုန်းတွေမှာ VOICEVOX အတိုင်း ဆက်သုံးပါတယ်။ 200K (230,639) ကဏ္ဍတိုင်းမှာ ဆက်ရှိပါတယ်။","signature_alg":"ES256","signature":"g4mfyvdzhYF4AZcpw87+7dPb8WLhI9evsgeSM3PZivO0bTEB7BHHxGNR9+9jJijaKZ2GqdjtRe9kabPPvB12Fw=="}
