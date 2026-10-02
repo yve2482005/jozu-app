@@ -1,15 +1,15 @@
 {
   "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
   "format": "jozu-app-update/1",
-  "issued_at": "2026-10-02T07:16:06+06:30",
+  "issued_at": "2026-10-02T07:27:37+06:30",
   "min_android_sdk": 24,
-  "notes_mm": "Jōzu v22.0.6 — အသံထစ်တာပြင်ဆင်ချက်: အသံဖိုင်တွေ အရင် WebView အသံစနစ်နဲ့ဖွင့်လို့ 2GB ဖုန်းတွေမှာ တခါတခါထစ်ထစ်ပြီးထွက်နေတာ။ အခု ဖုန်းရဲ့ မူလအသံစနစ် (native MediaPlayer) နဲ့ တိုက်ရိုက်ဖွင့်တော့မယ် — အသံချောမွေ့စွာထွက်မယ်။ စာလုံးထိအသံထွက် + သင်ခန်းစာအသံအားလုံး ဒီနည်းနဲ့ဖွင့်မယ်။ 200K စာတွေ (230,639) + VOICEVOX အသံ 36,330 အတိုင်းပဲ။",
+  "notes_mm": "Jōzu v22.0.7 — 200K ကို app တခုလုံးမှာသုံးပြီ: Vocabulary, Kanji, Grammar, Listening, Speaking, Reading, Writing ကဏ္ဍတိုင်းမှာ 200K စာတွေပါဝင်လာပြီ (စုစုပေါင်း 230,639)။ ရှာဖွေမှုမှာလည်း 200K ပါတယ်။ လက်တွေ့သုံး ဂျပန်စာမှာလည်း 200K ဒိုင်ယာလော့ခ်များ (နေ့စဉ်/အလုပ်/ဈေးဝယ်/ဆေးဘက်/Kaigo) ပါပြီ။ တနေရာထဲစုမထားတော့ဘူး။",
   "package": "com.jozu.app",
-  "sha256": "27eb336389897adcf83a102961e93aa9cdc3a03d3875221f2c13e9e0995b07ec",
-  "size_bytes": 499621946,
-  "url": "https://gofile.io/d/RoYspACL",
-  "version": "22.0.6",
-  "version_code": 143,
+  "sha256": "6852cf32b345b227d209dce6fb31ea02658eff6b2cfb194ec599b1cc8e9c104a",
+  "size_bytes": 499638407,
+  "url": "https://gofile.io/d/QeXIIICo",
+  "version": "22.0.7",
+  "version_code": 144,
   "signature_alg": "ES256",
-  "signature": "qJEscIip6vrfD11HT8bTCfunDsHr+1kUvQmn1wbS700rFdq3pPHxSNbu1d25qK7h5AwLKXaUWHseHlgHjNjEAQ=="
+  "signature": "FazfKl0pEkEoJwhErqfOdzqdEQR86cWqkw4Vf8Y18d4/3xnsW4RfOhDuNz0ekN5knXQEyfwnHPYSymVKJXuxag=="
 }
