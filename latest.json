@@ -1,15 +1,15 @@
 {
   "cert_sha256": "114ab597cbd17a8ebacfdfbd9a49a190cd749741258464230605c285a9794ce3",
   "format": "jozu-app-update/1",
-  "issued_at": "2026-10-02T00:01:22+06:30",
+  "issued_at": "2026-10-02T07:16:06+06:30",
   "min_android_sdk": 24,
-  "notes_mm": "Jōzu v22.0.5 — အကြီးစားအမှားပြင်ဆင်ချက်: (1) သင်ခန်းစာ 230,639 ခု Library ထဲက 200K ကဏ္ဍမှာ အကုန်မြင်ရ/ရှာရ/လေ့ကျင့်ရပြီ — အရင်ဗားရှင်းတွေမှာ ဖုံးကွယ်နေခဲ့တာ။ (2) VOICEVOX အသံ 36,330 ခု အခုတကယ်ဖွင့်နိုင်ပြီ — အရင်က app အတွင်းလမ်းကြောင်းမှားနေလို့ အသံမထွက်ခဲ့ဘူး။ စာလုံးထိတာနဲ့ အသံထွက်တယ်။ 32-bit ဖုန်းတွေမှာ အသံတိုက်ရိုက်ထုတ်မရဘူး၊ အသံရှိပြီးသားတွေပဲဖွင့်နိုင်တယ်။",
+  "notes_mm": "Jōzu v22.0.6 — အသံထစ်တာပြင်ဆင်ချက်: အသံဖိုင်တွေ အရင် WebView အသံစနစ်နဲ့ဖွင့်လို့ 2GB ဖုန်းတွေမှာ တခါတခါထစ်ထစ်ပြီးထွက်နေတာ။ အခု ဖုန်းရဲ့ မူလအသံစနစ် (native MediaPlayer) နဲ့ တိုက်ရိုက်ဖွင့်တော့မယ် — အသံချောမွေ့စွာထွက်မယ်။ စာလုံးထိအသံထွက် + သင်ခန်းစာအသံအားလုံး ဒီနည်းနဲ့ဖွင့်မယ်။ 200K စာတွေ (230,639) + VOICEVOX အသံ 36,330 အတိုင်းပဲ။",
   "package": "com.jozu.app",
-  "sha256": "adca7573939a68e2e053496936713df2fe68d7af33e28a58b0098763958edac6",
+  "sha256": "27eb336389897adcf83a102961e93aa9cdc3a03d3875221f2c13e9e0995b07ec",
   "size_bytes": 499621946,
-  "url": "https://gofile.io/d/Lo4iywp8",
-  "version": "22.0.5",
-  "version_code": 142,
+  "url": "https://gofile.io/d/RoYspACL",
+  "version": "22.0.6",
+  "version_code": 143,
   "signature_alg": "ES256",
-  "signature": "GIr0Hwpjchi8hQ1CTaRLIIiDqLEcXS5zYwOaYYFuCuNQDtgh2uK9XJgzEieSWMzl+nDRUlvy989RrTv8KAKQlg=="
+  "signature": "qJEscIip6vrfD11HT8bTCfunDsHr+1kUvQmn1wbS700rFdq3pPHxSNbu1d25qK7h5AwLKXaUWHseHlgHjNjEAQ=="
 }
